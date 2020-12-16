@@ -9,7 +9,6 @@ Created on Sat Dec 12 12:24:11 2020
 import requests
 import json
 import pandas as pd
-import matplotlib.pyplot as plt
 import dash
 import dash_core_components as dcc
 import dash_html_components as html
